@@ -1,0 +1,4 @@
+atproto==0.0.72
+groq==1.7.0
+httpx==0.28.1
+python-dotenv==1.2.3

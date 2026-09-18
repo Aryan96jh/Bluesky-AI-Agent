@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets — never commit the real one
+.env
+
+# Runtime data (created automatically on first run)
+data/*.db
+data/*.json
+!data/.gitkeep
+
+# Logs
+*.log
