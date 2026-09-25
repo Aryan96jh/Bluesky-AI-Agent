@@ -121,5 +121,5 @@ data/                    # Runtime data (auto-created, git-ignored)
 ## Disclaimer
 
 Automated engagement must respect the target platform's terms of service and
-rate limits. Use responsibly — this tool is meant for genuine, high-quality
+rate limits. Use responsibly-this tool is meant for genuine, high-quality
 participation, not spam.
